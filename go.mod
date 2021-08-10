@@ -1,0 +1,1 @@
+module "github.com/wangyufengGoGoGo/go-email"
